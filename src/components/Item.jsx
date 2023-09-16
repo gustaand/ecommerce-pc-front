@@ -13,8 +13,8 @@ const Item = ({ item, width }) => {
   const dispatch = useDispatch();
   const [count, setCount] = useState(1);
   const [isHovered, setIsHovered] = useState(false);
-  const { 
-    palette: { neutral }, 
+  const {
+    palette: { neutral },
   } = useTheme();
 
   const { category, price, name, image } = item.attributes;
@@ -27,13 +27,13 @@ const Item = ({ item, width }) => {
   return (
     <Box width={width}>
       <Box position="relative" onMouseOver={() => setIsHovered(true)} onMouseOut={() => setIsHovered(false)}>
-        <img 
-          src={`http://localhost:1337${url}`} 
-          alt={item.name} 
-          width="300px" 
+        <img
+          src={url}
+          alt={item.name}
+          width="300px"
           height="300px"
           onClick={() => navigate(`/item/${item.id}`)}
-          style={{cursor: 'pointer', objectFit: 'contain'}}
+          style={{ cursor: 'pointer', objectFit: 'contain' }}
         />
         <Box
           display={isHovered ? "block" : "none"}
@@ -45,18 +45,18 @@ const Item = ({ item, width }) => {
         >
           <Box display="flex" justifyContent="space-between">
             {/* AMOUNT */}
-            <Box 
-              display="flex" 
-              alignItems="center" 
-              backgroundColor={shades.neutral[100]} 
-              borderRadius="3px" 
+            <Box
+              display="flex"
+              alignItems="center"
+              backgroundColor={shades.neutral[100]}
+              borderRadius="3px"
             >
-              <IconButton onClick={() => setCount(Math.max(count -1, 1))}>
+              <IconButton onClick={() => setCount(Math.max(count - 1, 1))}>
                 <RemoveIcon />
               </IconButton>
 
               <Typography color={shades.primary[300]}>{count}</Typography>
-              
+
               <IconButton onClick={() => setCount(count + 1)}>
                 <AddIcon />
               </IconButton>
@@ -64,10 +64,10 @@ const Item = ({ item, width }) => {
 
             {/* BUTTON */}
             <Button
-              onClick={() => { 
-                dispatch(addToCart({ item: {...item, count}}))
+              onClick={() => {
+                dispatch(addToCart({ item: { ...item, count } }))
               }}
-              sx={{ backgroundColor: shades.primary[200], color: "white"}}
+              sx={{ backgroundColor: shades.primary[200], color: "white" }}
               variant="contained"
             >
               Add to Cart

@@ -62,12 +62,12 @@ const CartMenu = () => {
               <Box key={`${item.attributes.name}-${item.id}`}>
                 <FlexBox p='15px 0'>
                   <Box flex='1 1 40%'>
-                    <img 
-                      src={`http://localhost:1337${item?.attributes?.image?.data?.attributes?.url}`}
-                      alt={item?.name} 
+                    <img
+                      src={item?.attributes?.image?.data?.attributes?.url}
+                      alt={item?.name}
                       width='123px'
                       height='164px'
-                      style={{objectFit: "contain"}}
+                      style={{ objectFit: "contain" }}
                     />
                   </Box>
                   <Box flex='1 1 60%'>
@@ -90,33 +90,33 @@ const CartMenu = () => {
                         alignItems='center'
                         border={`1.5px solid ${shades.neutral[500]}`}
                       >
-                        <IconButton 
+                        <IconButton
                           onClick={() => dispatch(decreaseCount({ id: item.id }))}
                         >
                           <RemoveIcon />
                         </IconButton>
 
                         <Typography>{item.count}</Typography>
-                        
-                        <IconButton 
+
+                        <IconButton
                           onClick={() => dispatch(increaseCount({ id: item.id }))}
                         >
                           <AddIcon />
                         </IconButton>
                       </Box>
-                      
+
                       {/* PRICE */}
                       <Typography fontWeight='bold'>
                         €{item.attributes.price}
                       </Typography>
-                    </FlexBox>              
+                    </FlexBox>
                   </Box>
                 </FlexBox>
                 <Divider />
               </Box>
             ))}
           </Box>
-          
+
           {/* ACTIONS */}
           <Box m='20px 0'>
             <FlexBox m='20px 0'>
