@@ -1,0 +1,1309 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "name": " Acer Nitro 5 AN515-56 i5-11300H",
+        "shortDescription": "Procesador: i5-11300H\nMemoria RAM: 8GB\nMemoria de Almacenaje: 512 SSD\nPantalla: 15.6\nTarjeta Gráfica: GTX1650",
+        "longDescription": "Acer Nitro 5 AN515-56-582P. Tipo de producto: Portátil, Factor de forma: Concha. Familia de procesador: Intel® Core™ i5, Modelo del procesador: i5-11300H. Diagonal de la pantalla: 39,6 cm (15.6\"), Tipo HD: Full HD, Resolución de la pantalla: 1920 x 1080 Pixeles. Memoria interna: 8 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 512 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: Intel Iris Xe Graphics, Modelo de adaptador de gráficos discretos: NVIDIA® GeForce® GTX 1650. Sistema operativo instalado: eShell. Color del producto: Negro",
+        "price": 615,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:13:08.049Z",
+        "updatedAt": "2023-01-20T00:03:11.473Z",
+        "publishedAt": "2023-01-12T15:13:08.874Z",
+        "image": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "acer-nitro-5-an515-56-582p-portátil-396-cm-156-full-hd-intel-core-i5-8-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gtx-1650-wi-fi.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 300,
+              "height": 300,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_acer-nitro-5-an515-56-582p-portátil-396-cm-156-full-hd-intel-core-i5-8-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gtx-1650-wi-fi.jpg",
+                  "hash": "thumbnail_acer_nitro_5_an515_56_582p_portatil_396_cm_156_full_hd_intel_core_i5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_7cc877a74a",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 4.14,
+                  "url": "/uploads/thumbnail_acer_nitro_5_an515_56_582p_portatil_396_cm_156_full_hd_intel_core_i5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_7cc877a74a.jpg"
+                }
+              },
+              "hash": "acer_nitro_5_an515_56_582p_portatil_396_cm_156_full_hd_intel_core_i5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_7cc877a74a",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 11.51,
+              "url": "/uploads/acer_nitro_5_an515_56_582p_portatil_396_cm_156_full_hd_intel_core_i5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_7cc877a74a.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:04.306Z",
+              "updatedAt": "2023-01-12T15:09:04.306Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "name": "Asus ROG Strix G512LU-HN093T i7-10750H",
+        "shortDescription": "Procesador: intel core i7-10750H\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 512 SSD\nPantalla: 15.6 144Hz\nTarjeta Gráfica: GTX1660Ti\nSistema: Windows 10\n",
+        "longDescription": null,
+        "price": 860,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:38:39.916Z",
+        "updatedAt": "2023-01-19T12:50:31.637Z",
+        "publishedAt": "2023-01-12T15:38:40.336Z",
+        "image": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "asus-rog-strix-g512lu-hn093t-i7-10750h16gb512ssdgtx1660ti156-144hzw10-reacondicionado.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 800,
+              "height": 450,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_asus-rog-strix-g512lu-hn093t-i7-10750h16gb512ssdgtx1660ti156-144hzw10-reacondicionado.jpg",
+                  "hash": "thumbnail_asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 138,
+                  "size": 4.52,
+                  "url": "/uploads/thumbnail_asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94.jpg"
+                },
+                "medium": {
+                  "name": "medium_asus-rog-strix-g512lu-hn093t-i7-10750h16gb512ssdgtx1660ti156-144hzw10-reacondicionado.jpg",
+                  "hash": "medium_asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 422,
+                  "size": 24.46,
+                  "url": "/uploads/medium_asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94.jpg"
+                },
+                "small": {
+                  "name": "small_asus-rog-strix-g512lu-hn093t-i7-10750h16gb512ssdgtx1660ti156-144hzw10-reacondicionado.jpg",
+                  "hash": "small_asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 281,
+                  "size": 13.34,
+                  "url": "/uploads/small_asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94.jpg"
+                }
+              },
+              "hash": "asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 27.7,
+              "url": "/uploads/asus_rog_strix_g512lu_hn093t_i7_10750h16gb512ssdgtx1660ti156_144hzw10_reacondicionado_e45721be94.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:04.496Z",
+              "updatedAt": "2023-01-12T15:09:04.496Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "name": "HP OMEN 15-en1000ns RYZEN7-5800H",
+        "shortDescription": "Procesador: AMD RYZEN7-5800H\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 512 SSD\nPantalla: 15.6\nTarjeta Gráfica: RTX 3060\nSistema: Windows 10\n",
+        "longDescription": "HP OMEN 15-en1000ns. Tipo de producto: Portátil, Factor de forma: Concha. Familia de procesador: AMD Ryzen 7, Modelo del procesador: 5800H, Frecuencia del procesador: 3,2 GHz. Diagonal de la pantalla: 39,6 cm (15.6\"), Resolución de la pantalla: 1920 x 1080 Pixeles. Memoria interna: 16 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 512 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: AMD Radeon Graphics, Modelo de adaptador de gráficos discretos: NVIDIA GeForce RTX 3060. Sistema operativo instalado: Windows 10 Home. Color del producto: Negro",
+        "price": 899,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:39:47.089Z",
+        "updatedAt": "2023-01-19T12:51:10.412Z",
+        "publishedAt": "2023-01-12T15:39:47.676Z",
+        "image": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "hp-omen-15-ek0009ns-i7-10750h8gb512ssd156gtx-1660tiw10-reacondicionado.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hp-omen-15-ek0009ns-i7-10750h8gb512ssd156gtx-1660tiw10-reacondicionado.jpg",
+                  "hash": "thumbnail_hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 4.87,
+                  "url": "/uploads/thumbnail_hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb.jpg"
+                },
+                "medium": {
+                  "name": "medium_hp-omen-15-ek0009ns-i7-10750h8gb512ssd156gtx-1660tiw10-reacondicionado.jpg",
+                  "hash": "medium_hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 56.17,
+                  "url": "/uploads/medium_hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb.jpg"
+                },
+                "small": {
+                  "name": "small_hp-omen-15-ek0009ns-i7-10750h8gb512ssd156gtx-1660tiw10-reacondicionado.jpg",
+                  "hash": "small_hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 29.08,
+                  "url": "/uploads/small_hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb.jpg"
+                }
+              },
+              "hash": "hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 93.14,
+              "url": "/uploads/hp_omen_15_ek0009ns_i7_10750h8gb512ssd156gtx_1660tiw10_reacondicionado_3b6a0b1acb.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:04.825Z",
+              "updatedAt": "2023-01-12T15:09:04.825Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "name": "Asus Tuf Gaming A15 Ryzen 7 4800H",
+        "shortDescription": "Procesador: AMD Ryzen 7 4800H APU\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 1T SSD\nPantalla: 15.6 144Hz\nTarjeta Gráfica: GTX 1660Ti\nSistema: OperacionalFreeDOS\n",
+        "longDescription": null,
+        "price": 849,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:40:45.160Z",
+        "updatedAt": "2023-01-19T12:50:42.842Z",
+        "publishedAt": "2023-01-12T15:40:45.921Z",
+        "image": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "asus-tuf-gaming-a15-fa506iu-hn278-amd-ryzen-7-4800h-apu16gb1tb-ssdgtx-1660ti156fhdfreedos-ligeras-marcas-de-uso-reacondicionado.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_asus-tuf-gaming-a15-fa506iu-hn278-amd-ryzen-7-4800h-apu16gb1tb-ssdgtx-1660ti156fhdfreedos-ligeras-marcas-de-uso-reacondicionado.jpg",
+                  "hash": "thumbnail_asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 3.71,
+                  "url": "/uploads/thumbnail_asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200.jpg"
+                },
+                "medium": {
+                  "name": "medium_asus-tuf-gaming-a15-fa506iu-hn278-amd-ryzen-7-4800h-apu16gb1tb-ssdgtx-1660ti156fhdfreedos-ligeras-marcas-de-uso-reacondicionado.jpg",
+                  "hash": "medium_asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 51.3,
+                  "url": "/uploads/medium_asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200.jpg"
+                },
+                "small": {
+                  "name": "small_asus-tuf-gaming-a15-fa506iu-hn278-amd-ryzen-7-4800h-apu16gb1tb-ssdgtx-1660ti156fhdfreedos-ligeras-marcas-de-uso-reacondicionado.jpg",
+                  "hash": "small_asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 25.32,
+                  "url": "/uploads/small_asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200.jpg"
+                }
+              },
+              "hash": "asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 88.12,
+              "url": "/uploads/asus_tuf_gaming_a15_fa506iu_hn278_amd_ryzen_7_4800h_apu16gb1tb_ssdgtx_1660ti156fhdfreedos_ligeras_marcas_de_uso_reacondicionado_6ae84d0200.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:04.669Z",
+              "updatedAt": "2023-01-12T15:09:04.669Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "name": "HP Pavilion Gaming 15-DK1004NS i5-10300H",
+        "shortDescription": "Procesador: intel core i5-10300H\nMemoria RAM: 32GB\nUnidad de Almacenamiento: 512 SSD\nPantalla: 15.6\nTarjeta Gráfica: GTX1650\nSistema: Windows 10\n",
+        "longDescription": "HP Pavilion Gaming 15-dk1004ns. Tipo de producto: Portátil, Factor de forma: Concha. Familia de procesador: Intel® Core™ i5, Modelo del procesador: i5-10300H, Frecuencia del procesador: 2,5 GHz. Diagonal de la pantalla: 39,6 cm (15.6\"), Tipo HD: Full HD, Resolución de la pantalla: 1920 x 1080 Pixeles. Memoria interna: 32 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 512 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: Intel® UHD Graphics. Sistema operativo instalado: Windows 10 Home. Color del producto: Negro",
+        "price": 699,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:41:28.056Z",
+        "updatedAt": "2023-01-19T12:51:29.724Z",
+        "publishedAt": "2023-01-12T15:41:28.821Z",
+        "image": {
+          "data": {
+            "id": 11,
+            "attributes": {
+              "name": "hp-pavilion-gaming-15-dk1004ns-i5-10300h-portátil-396-cm-156-full-hd-intel-core-i5-32-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gt.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hp-pavilion-gaming-15-dk1004ns-i5-10300h-portátil-396-cm-156-full-hd-intel-core-i5-32-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gt.jpg",
+                  "hash": "thumbnail_hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 4.5,
+                  "url": "/uploads/thumbnail_hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c.jpg"
+                },
+                "small": {
+                  "name": "small_hp-pavilion-gaming-15-dk1004ns-i5-10300h-portátil-396-cm-156-full-hd-intel-core-i5-32-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gt.jpg",
+                  "hash": "small_hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 27,
+                  "url": "/uploads/small_hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c.jpg"
+                },
+                "medium": {
+                  "name": "medium_hp-pavilion-gaming-15-dk1004ns-i5-10300h-portátil-396-cm-156-full-hd-intel-core-i5-32-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gt.jpg",
+                  "hash": "medium_hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 53.33,
+                  "url": "/uploads/medium_hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c.jpg"
+                }
+              },
+              "hash": "hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 87.91,
+              "url": "/uploads/hp_pavilion_gaming_15_dk1004ns_i5_10300h_portatil_396_cm_156_full_hd_intel_core_i5_32_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gt_f95bb3174c.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.412Z",
+              "updatedAt": "2023-01-12T15:09:05.412Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "name": " Lenovo IdeaPad Gaming 3 15IHU6 i7-11370H",
+        "shortDescription": "rocesador: intel core i7-11370H\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 512 SSD\nPantalla: 15.6\nTarjeta Gráfica: RTX3050\nSistema: FreeDos\n",
+        "longDescription": "\nLenovo IdeaPad Gaming 3. Tipo de producto: Portátil, Factor de forma: Concha. Familia de procesador: Intel® Core™ i7, Modelo del procesador: i7-11370H, Frecuencia del procesador: 3,3 GHz. Diagonal de la pantalla: 39,6 cm (15.6\"), Tipo HD: Full HD, Resolución de la pantalla: 1920 x 1080 Pixeles. Memoria interna: 16 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 512 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: Intel Iris Xe Graphics, Modelo de adaptador de gráficos discretos: NVIDIA GeForce RTX 3050. Color del producto: Negro\n",
+        "price": 879,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:42:16.846Z",
+        "updatedAt": "2023-01-19T12:50:17.469Z",
+        "publishedAt": "2023-01-12T15:42:17.574Z",
+        "image": {
+          "data": {
+            "id": 10,
+            "attributes": {
+              "name": "lenovo-ideapad-gaming-3-portátil-396-cm-156-full-hd-amd-ryzen-5-8-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gtx-1650-wi-fi-5-80211.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_lenovo-ideapad-gaming-3-portátil-396-cm-156-full-hd-amd-ryzen-5-8-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gtx-1650-wi-fi-5-80211.jpg",
+                  "hash": "thumbnail_lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.49,
+                  "url": "/uploads/thumbnail_lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0.jpg"
+                },
+                "medium": {
+                  "name": "medium_lenovo-ideapad-gaming-3-portátil-396-cm-156-full-hd-amd-ryzen-5-8-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gtx-1650-wi-fi-5-80211.jpg",
+                  "hash": "medium_lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 27.15,
+                  "url": "/uploads/medium_lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0.jpg"
+                },
+                "small": {
+                  "name": "small_lenovo-ideapad-gaming-3-portátil-396-cm-156-full-hd-amd-ryzen-5-8-gb-ddr4-sdram-512-gb-ssd-nvidia-geforce-gtx-1650-wi-fi-5-80211.jpg",
+                  "hash": "small_lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 14.27,
+                  "url": "/uploads/small_lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0.jpg"
+                }
+              },
+              "hash": "lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 44.4,
+              "url": "/uploads/lenovo_ideapad_gaming_3_portatil_396_cm_156_full_hd_amd_ryzen_5_8_gb_ddr4_sdram_512_gb_ssd_nvidia_geforce_gtx_1650_wi_fi_5_80211_e089aadef0.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.326Z",
+              "updatedAt": "2023-01-12T15:09:05.326Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "name": "MSI GP66 Leopard 10UE-499ES i7-10870H",
+        "shortDescription": "Procesador: intel core i7-10750H\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 1TB SSD\nPantalla: 15.6\nTarjeta Gráfica: RTX 3060\nSistema: Windows 10\n",
+        "longDescription": "MSI Gaming GP66 10UE-499ES Leopard. Tipo de producto: Portátil, Factor de forma: Concha. Familia de procesador: Intel® Core™ i7, Modelo del procesador: i7-10870H, Frecuencia del procesador: 2,2 GHz. Diagonal de la pantalla: 39,6 cm (15.6\"), Tipo HD: Full HD, Resolución de la pantalla: 1920 x 1080 Pixeles. Memoria interna: 16 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 1000 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: Intel® UHD Graphics. Sistema operativo instalado: Windows 10 Home. Color del producto: Negro",
+        "price": 1299,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:43:00.373Z",
+        "updatedAt": "2023-01-19T12:51:45.922Z",
+        "publishedAt": "2023-01-12T15:43:01.144Z",
+        "image": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "msi-gaming-gp66-10ue-499es-leopard-portátil-396-cm-156-full-hd-intel-core-i7-16-gb-ddr4-sdram-1000-gb-ssd-nvidia-geforce-rtx-306.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_msi-gaming-gp66-10ue-499es-leopard-portátil-396-cm-156-full-hd-intel-core-i7-16-gb-ddr4-sdram-1000-gb-ssd-nvidia-geforce-rtx-306.jpg",
+                  "hash": "thumbnail_msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.55,
+                  "url": "/uploads/thumbnail_msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b.jpg"
+                },
+                "medium": {
+                  "name": "medium_msi-gaming-gp66-10ue-499es-leopard-portátil-396-cm-156-full-hd-intel-core-i7-16-gb-ddr4-sdram-1000-gb-ssd-nvidia-geforce-rtx-306.jpg",
+                  "hash": "medium_msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 28.2,
+                  "url": "/uploads/medium_msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b.jpg"
+                },
+                "small": {
+                  "name": "small_msi-gaming-gp66-10ue-499es-leopard-portátil-396-cm-156-full-hd-intel-core-i7-16-gb-ddr4-sdram-1000-gb-ssd-nvidia-geforce-rtx-306.jpg",
+                  "hash": "small_msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 14.63,
+                  "url": "/uploads/small_msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b.jpg"
+                }
+              },
+              "hash": "msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 46.59,
+              "url": "/uploads/msi_gaming_gp66_10ue_499es_leopard_portatil_396_cm_156_full_hd_intel_core_i7_16_gb_ddr4_sdram_1000_gb_ssd_nvidia_geforce_rtx_306_7a592d029b.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.709Z",
+              "updatedAt": "2023-01-12T15:09:05.709Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "name": "MSI Pulse GL76 Intel Core i7-11800H",
+        "shortDescription": "Procesador: intel core i7-11800H\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 1T SSD\nPantalla: 17.3\nTarjeta Gráfica: RTX 3060\nSistema: FreeDOS\n",
+        "longDescription": "MSI Pulse GL76 11UEK-055XES. Tipo de producto: Portátil, Factor de forma: Concha. Familia de procesador: Intel® Core™ i7, Modelo del procesador: i7-11800H, Frecuencia del procesador: 2,3 GHz. Diagonal de la pantalla: 43,9 cm (17.3\"), Tipo HD: Full HD, Resolución de la pantalla: 1920 x 1080 Pixeles. Memoria interna: 16 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 1000 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: Intel® UHD Graphics. Sistema operativo instalado: FreeDOS. Color del producto: Gris",
+        "price": 1390,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:43:39.037Z",
+        "updatedAt": "2023-01-19T12:51:52.028Z",
+        "publishedAt": "2023-01-18T23:54:00.229Z",
+        "image": {
+          "data": {
+            "id": 15,
+            "attributes": {
+              "name": "msi-pulse-gl76-11uek-055xes-intel-core-i7-11800h16gb1tb-ssdrtx-3060173freedos-pixel-en-pantalla-reacondicionado.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_msi-pulse-gl76-11uek-055xes-intel-core-i7-11800h16gb1tb-ssdrtx-3060173freedos-pixel-en-pantalla-reacondicionado.jpg",
+                  "hash": "thumbnail_msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.47,
+                  "url": "/uploads/thumbnail_msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59.jpg"
+                },
+                "medium": {
+                  "name": "medium_msi-pulse-gl76-11uek-055xes-intel-core-i7-11800h16gb1tb-ssdrtx-3060173freedos-pixel-en-pantalla-reacondicionado.jpg",
+                  "hash": "medium_msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 25.87,
+                  "url": "/uploads/medium_msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59.jpg"
+                },
+                "small": {
+                  "name": "small_msi-pulse-gl76-11uek-055xes-intel-core-i7-11800h16gb1tb-ssdrtx-3060173freedos-pixel-en-pantalla-reacondicionado.jpg",
+                  "hash": "small_msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 13.3,
+                  "url": "/uploads/small_msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59.jpg"
+                }
+              },
+              "hash": "msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 42.68,
+              "url": "/uploads/msi_pulse_gl76_11uek_055xes_intel_core_i7_11800h16gb1tb_ssdrtx_3060173freedos_pixel_en_pantalla_reacondicionado_0729cb7a59.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.843Z",
+              "updatedAt": "2023-01-12T15:09:05.843Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "name": "HP 16-d1016ns Victus i5-12500H",
+        "shortDescription": "Procesador: i5-12500H\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 512Gb SSD\nPantalla: 16.1\nTarjeta Gráfica: RTX3050ti\nSistema Operacional: FreeDOS\n",
+        "longDescription": "Victus by HP 16-d1016ns. Tipo de producto: Portátil, Factor de forma: Concha. Familia de procesador: Intel® Core™ i5, Modelo del procesador: i5-12500H. Diagonal de la pantalla: 40,9 cm (16.1\"), Tipo HD: Full HD, Resolución de la pantalla: 1920 x 1080 Pixeles. Memoria interna: 16 GB, Tipo de memoria interna: DDR5-SDRAM. Capacidad total de almacenaje: 512 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: Intel Iris Xe Graphics, Modelo de adaptador de gráficos discretos: NVIDIA GeForce RTX 3050 Ti. Sistema operativo instalado: FreeDOS. Color del producto: Negro",
+        "price": 730,
+        "category": "Portatil",
+        "createdAt": "2023-01-12T15:44:09.514Z",
+        "updatedAt": "2023-01-19T12:50:59.504Z",
+        "publishedAt": "2023-01-12T15:44:10.255Z",
+        "image": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "victus-by-hp-16-d1016ns-i5-12500h-portátil-409-cm-161-full-hd-intel-core-i5-16-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-3050-.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_victus-by-hp-16-d1016ns-i5-12500h-portátil-409-cm-161-full-hd-intel-core-i5-16-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-3050-.jpg",
+                  "hash": "thumbnail_victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.04,
+                  "url": "/uploads/thumbnail_victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51.jpg"
+                },
+                "medium": {
+                  "name": "medium_victus-by-hp-16-d1016ns-i5-12500h-portátil-409-cm-161-full-hd-intel-core-i5-16-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-3050-.jpg",
+                  "hash": "medium_victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 20.41,
+                  "url": "/uploads/medium_victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51.jpg"
+                },
+                "small": {
+                  "name": "small_victus-by-hp-16-d1016ns-i5-12500h-portátil-409-cm-161-full-hd-intel-core-i5-16-gb-ddr5-sdram-512-gb-ssd-nvidia-geforce-rtx-3050-.jpg",
+                  "hash": "small_victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 10.49,
+                  "url": "/uploads/small_victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51.jpg"
+                }
+              },
+              "hash": "victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 31.55,
+              "url": "/uploads/victus_by_hp_16_d1016ns_i5_12500h_portatil_409_cm_161_full_hd_intel_core_i5_16_gb_ddr5_sdram_512_gb_ssd_nvidia_geforce_rtx_3050_ca3297ac51.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.909Z",
+              "updatedAt": "2023-01-12T15:09:05.909Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "name": "Acer Aspire XC-895 i5-10400",
+        "shortDescription": "Procesador: intel core i5-10400\nMemoria RAM: 8GB\nUnidad de Almacenamiento: 1T SSD\nTarjeta Gráfica: GeForece GT-630\nSistema: Windows 10\n",
+        "longDescription": "Acer Aspire XC-895. Frecuencia del procesador: 2,9 GHz, Familia de procesador: Intel® Core™ i5, Modelo del procesador: i5-10400. Memoria interna: 8 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 1000 GB, Unidad de almacenamiento: SSD, Tarjeta de lectura integrada. Modelo de adaptador gráfico incorporado: Intel® UHD Graphics 630, Modelo de adaptador de gráficos discretos: NVIDIA® GeForce® GT 630. Fuente de alimentación: 180 W. Tipo de chasis: Mini Tower. Tipo de producto: PC. Peso: 6,8 kg. Color del producto: Negro",
+        "price": 499,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:44:53.559Z",
+        "updatedAt": "2023-01-12T15:44:54.297Z",
+        "publishedAt": "2023-01-12T15:44:54.294Z",
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "acer-aspire-xc-895-i5-10400-mini-tower-intel-core-i5-8-gb-ddr4-sdram-1000-gb-ssd-pc-negro.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 640,
+              "height": 360,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_acer-aspire-xc-895-i5-10400-mini-tower-intel-core-i5-8-gb-ddr4-sdram-1000-gb-ssd-pc-negro.jpg",
+                  "hash": "thumbnail_acer_aspire_xc_895_i5_10400_mini_tower_intel_core_i5_8_gb_ddr4_sdram_1000_gb_ssd_pc_negro_93c5c01b3c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 245,
+                  "height": 138,
+                  "size": 1.89,
+                  "url": "/uploads/thumbnail_acer_aspire_xc_895_i5_10400_mini_tower_intel_core_i5_8_gb_ddr4_sdram_1000_gb_ssd_pc_negro_93c5c01b3c.jpg"
+                },
+                "small": {
+                  "name": "small_acer-aspire-xc-895-i5-10400-mini-tower-intel-core-i5-8-gb-ddr4-sdram-1000-gb-ssd-pc-negro.jpg",
+                  "hash": "small_acer_aspire_xc_895_i5_10400_mini_tower_intel_core_i5_8_gb_ddr4_sdram_1000_gb_ssd_pc_negro_93c5c01b3c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 281,
+                  "size": 5.2,
+                  "url": "/uploads/small_acer_aspire_xc_895_i5_10400_mini_tower_intel_core_i5_8_gb_ddr4_sdram_1000_gb_ssd_pc_negro_93c5c01b3c.jpg"
+                }
+              },
+              "hash": "acer_aspire_xc_895_i5_10400_mini_tower_intel_core_i5_8_gb_ddr4_sdram_1000_gb_ssd_pc_negro_93c5c01b3c",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 7.76,
+              "url": "/uploads/acer_aspire_xc_895_i5_10400_mini_tower_intel_core_i5_8_gb_ddr4_sdram_1000_gb_ssd_pc_negro_93c5c01b3c.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:03.861Z",
+              "updatedAt": "2023-01-12T15:09:03.861Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "name": "Acer Nitro 50 N50-640 i5-12400",
+        "shortDescription": "Procesador: intel core i5-12400\nMemoria RAM: 8GB\nUnidad de Almacenamiento: 512 SSD\nTarjeta Gráfica: GTX1650\nSistema: FreeDOS\n",
+        "longDescription": null,
+        "price": 694.5,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:45:43.245Z",
+        "updatedAt": "2023-01-12T15:45:44.000Z",
+        "publishedAt": "2023-01-12T15:45:43.998Z",
+        "image": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "acer-nitro-50-n50-640-i5-12400-16gb-512ssd-gtx1650-freedos-caja-abierta.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_acer-nitro-50-n50-640-i5-12400-16gb-512ssd-gtx1650-freedos-caja-abierta.jpg",
+                  "hash": "thumbnail_acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.23,
+                  "url": "/uploads/thumbnail_acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d.jpg"
+                },
+                "small": {
+                  "name": "small_acer-nitro-50-n50-640-i5-12400-16gb-512ssd-gtx1650-freedos-caja-abierta.jpg",
+                  "hash": "small_acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 12.19,
+                  "url": "/uploads/small_acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d.jpg"
+                },
+                "medium": {
+                  "name": "medium_acer-nitro-50-n50-640-i5-12400-16gb-512ssd-gtx1650-freedos-caja-abierta.jpg",
+                  "hash": "medium_acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 23.33,
+                  "url": "/uploads/medium_acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d.jpg"
+                }
+              },
+              "hash": "acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 38.29,
+              "url": "/uploads/acer_nitro_50_n50_640_i5_12400_16gb_512ssd_gtx1650_freedos_caja_abierta_d9f8b58f1d.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:04.517Z",
+              "updatedAt": "2023-01-12T15:09:04.517Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "name": "HP OMEN 30L GT13-1708NG i9-11900K",
+        "shortDescription": "Procesador: intel core i9-11900K\nMemoria RAM: 32GB\nUnidad de Almacenamiento: 2TB SSD + 1TB SSD\nTarjeta Gráfica: RTX-3080\nSistema: Windows 10\n",
+        "longDescription": null,
+        "price": 2280,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:46:33.237Z",
+        "updatedAt": "2023-01-12T15:46:33.986Z",
+        "publishedAt": "2023-01-12T15:46:33.983Z",
+        "image": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "hp-omen-30l-gt13-1708ng-i9-11900k-32gb-1tbssd-1tbhdd-rtx-3080-w10-reacondicionado.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hp-omen-30l-gt13-1708ng-i9-11900k-32gb-1tbssd-1tbhdd-rtx-3080-w10-reacondicionado.jpg",
+                  "hash": "thumbnail_hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.05,
+                  "url": "/uploads/thumbnail_hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd.jpg"
+                },
+                "medium": {
+                  "name": "medium_hp-omen-30l-gt13-1708ng-i9-11900k-32gb-1tbssd-1tbhdd-rtx-3080-w10-reacondicionado.jpg",
+                  "hash": "medium_hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 21.24,
+                  "url": "/uploads/medium_hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd.jpg"
+                },
+                "small": {
+                  "name": "small_hp-omen-30l-gt13-1708ng-i9-11900k-32gb-1tbssd-1tbhdd-rtx-3080-w10-reacondicionado.jpg",
+                  "hash": "small_hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 10.21,
+                  "url": "/uploads/small_hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd.jpg"
+                }
+              },
+              "hash": "hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 37.82,
+              "url": "/uploads/hp_omen_30l_gt13_1708ng_i9_11900k_32gb_1tbssd_1tbhdd_rtx_3080_w10_reacondicionado_80b3d642dd.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:04.558Z",
+              "updatedAt": "2023-01-12T15:09:04.558Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "name": "HP OMEN 25L GT12-0045ns i5-10400F",
+        "shortDescription": "Procesador: intel core i5-10400F\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 1THd/ 512 SSD\nTarjeta Gráfica: GTX1660s\nSistema: FreeDOS\n\n",
+        "longDescription": "HP OMEN GT12-0045ns. Frecuencia del procesador: 2,9 GHz, Familia de procesador: Intel® Core™ i5, Modelo del procesador: i5-10400F. Memoria interna: 16 GB, Tipo de memoria interna: DDR4-SDRAM, Velocidad de memoria del reloj: 2666 MHz. Capacidad total de almacenaje: 1512 GB, Unidad de almacenamiento: HDD+SSD. Modelo de adaptador de gráficos discretos: NVIDIA GeForce GTX 1660 SUPER. Sistema operativo instalado: FreeDOS. Fuente de alimentación: 500 W. Tipo de chasis: Torre. Tipo de producto: PC. Peso: 11,4 kg. Color del producto: Negro",
+        "price": 799,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:47:15.814Z",
+        "updatedAt": "2023-01-12T15:47:16.534Z",
+        "publishedAt": "2023-01-12T15:47:16.532Z",
+        "image": {
+          "data": {
+            "id": 8,
+            "attributes": {
+              "name": "hp-omen-gt12-0045ns-i5-10400f-torre-intel-core-i5-16-gb-ddr4-sdram-1512-gb-hddssd-freedos-pc-negro.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hp-omen-gt12-0045ns-i5-10400f-torre-intel-core-i5-16-gb-ddr4-sdram-1512-gb-hddssd-freedos-pc-negro.jpg",
+                  "hash": "thumbnail_hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.11,
+                  "url": "/uploads/thumbnail_hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d.jpg"
+                },
+                "medium": {
+                  "name": "medium_hp-omen-gt12-0045ns-i5-10400f-torre-intel-core-i5-16-gb-ddr4-sdram-1512-gb-hddssd-freedos-pc-negro.jpg",
+                  "hash": "medium_hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 21.88,
+                  "url": "/uploads/medium_hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d.jpg"
+                },
+                "small": {
+                  "name": "small_hp-omen-gt12-0045ns-i5-10400f-torre-intel-core-i5-16-gb-ddr4-sdram-1512-gb-hddssd-freedos-pc-negro.jpg",
+                  "hash": "small_hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 10.53,
+                  "url": "/uploads/small_hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d.jpg"
+                }
+              },
+              "hash": "hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 40.88,
+              "url": "/uploads/hp_omen_gt12_0045ns_i5_10400f_torre_intel_core_i5_16_gb_ddr4_sdram_1512_gb_hddssd_freedos_pc_negro_6d6983340d.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.062Z",
+              "updatedAt": "2023-01-12T15:09:05.062Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "name": "HP Pavilion Gaming TG01-2085ur AMD R3-5300G",
+        "shortDescription": "Procesador: AMD R3-5300G\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 512 SSD\nTarjeta Gráfica: GTX 1650\nSistema: FreeDOS\n",
+        "longDescription": null,
+        "price": 499,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:48:00.942Z",
+        "updatedAt": "2023-01-12T15:48:01.654Z",
+        "publishedAt": "2023-01-12T15:48:01.652Z",
+        "image": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+                  "hash": "thumbnail_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.05,
+                  "url": "/uploads/thumbnail_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg"
+                },
+                "medium": {
+                  "name": "medium_hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+                  "hash": "medium_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 51.87,
+                  "url": "/uploads/medium_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg"
+                },
+                "small": {
+                  "name": "small_hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+                  "hash": "small_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 23.79,
+                  "url": "/uploads/small_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg"
+                }
+              },
+              "hash": "hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 102.3,
+              "url": "/uploads/hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.309Z",
+              "updatedAt": "2023-01-12T15:09:05.309Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "name": "Lenovo Legion T5 26IOB6 i5-11400F",
+        "shortDescription": "Procesador: intel core i5-11400F\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 512 SSD\nTarjeta Gráfica: GTX 1660s\nSistema: Windows 10\n",
+        "longDescription": "Lenovo Legion T5. Frecuencia del procesador: 2,6 GHz, Familia de procesador: Intel® Core™ i5 de 11ma Generación, Modelo del procesador: i5-11400F. Memoria interna: 16 GB, Tipo de memoria interna: DDR4-SDRAM, Velocidad de memoria del reloj: 3200 MHz. Capacidad total de almacenaje: 512 GB, Unidad de almacenamiento: SSD. Modelo de adaptador de gráficos discretos: NVIDIA GeForce GTX 1660 SUPER. Sistema operativo instalado: Windows 10 Home, Arquitectura del sistema operativo: 64 bits. Fuente de alimentación: 350 W. Tipo de chasis: Torre. Tipo de producto: PC. Color del producto: Negro",
+        "price": 859,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:48:37.153Z",
+        "updatedAt": "2023-01-12T15:48:37.926Z",
+        "publishedAt": "2023-01-12T15:48:37.923Z",
+        "image": {
+          "data": {
+            "id": 12,
+            "attributes": {
+              "name": "lenovo-legion-t5-ddr4-sdram-i5-11400f-torre-intel-core-i5-de-11ma-generación-16-gb-512-gb-ssd-windows-10-home-pc-negro.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_lenovo-legion-t5-ddr4-sdram-i5-11400f-torre-intel-core-i5-de-11ma-generación-16-gb-512-gb-ssd-windows-10-home-pc-negro.jpg",
+                  "hash": "thumbnail_lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.98,
+                  "url": "/uploads/thumbnail_lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467.jpg"
+                },
+                "small": {
+                  "name": "small_lenovo-legion-t5-ddr4-sdram-i5-11400f-torre-intel-core-i5-de-11ma-generación-16-gb-512-gb-ssd-windows-10-home-pc-negro.jpg",
+                  "hash": "small_lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 16.64,
+                  "url": "/uploads/small_lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467.jpg"
+                },
+                "medium": {
+                  "name": "medium_lenovo-legion-t5-ddr4-sdram-i5-11400f-torre-intel-core-i5-de-11ma-generación-16-gb-512-gb-ssd-windows-10-home-pc-negro.jpg",
+                  "hash": "medium_lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 34.73,
+                  "url": "/uploads/medium_lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467.jpg"
+                }
+              },
+              "hash": "lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 65.41,
+              "url": "/uploads/lenovo_legion_t5_ddr4_sdram_i5_11400f_torre_intel_core_i5_de_11ma_generacion_16_gb_512_gb_ssd_windows_10_home_pc_negro_22253e4467.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.442Z",
+              "updatedAt": "2023-01-12T15:09:05.442Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "name": "Lenovo T730-28ICO i7-9700K",
+        "shortDescription": "Procesador: intel core i7-9700K\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 1T SSD\nTarjeta Gráfica: RTX2080\nSistema: Windows 10\n",
+        "longDescription": null,
+        "price": 1399,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:49:13.453Z",
+        "updatedAt": "2023-01-12T15:49:15.131Z",
+        "publishedAt": "2023-01-12T15:49:15.128Z",
+        "image": {
+          "data": {
+            "id": 13,
+            "attributes": {
+              "name": "lenovo-t730-28ico-i7-9700k16gb1tb-ssdrtx2080freedos.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_lenovo-t730-28ico-i7-9700k16gb1tb-ssdrtx2080freedos.jpg",
+                  "hash": "thumbnail_lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.7,
+                  "url": "/uploads/thumbnail_lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995.jpg"
+                },
+                "medium": {
+                  "name": "medium_lenovo-t730-28ico-i7-9700k16gb1tb-ssdrtx2080freedos.jpg",
+                  "hash": "medium_lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 30.48,
+                  "url": "/uploads/medium_lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995.jpg"
+                },
+                "small": {
+                  "name": "small_lenovo-t730-28ico-i7-9700k16gb1tb-ssdrtx2080freedos.jpg",
+                  "hash": "small_lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 15.85,
+                  "url": "/uploads/small_lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995.jpg"
+                }
+              },
+              "hash": "lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 49.99,
+              "url": "/uploads/lenovo_t730_28ico_i7_9700k16gb1tb_ssdrtx2080freedos_7b57dd5995.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.607Z",
+              "updatedAt": "2023-01-12T15:09:05.607Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "name": "MSI Meg Trident X 11TD-1635EU i7-11700K",
+        "shortDescription": "Procesador: intel core i7-11700K\nMemoria RAM: 32GB\nUnidad de Almacenamiento: 1TB SSD\nTarjeta Gráfica: RTX 3070\nSistema: Windows 10\n",
+        "longDescription": "MSI MEG Trident X 11TD-1635EU. Frecuencia del procesador: 3,6 GHz, Familia de procesador: Intel® Core™ i7, Modelo del procesador: i7-11700K. Memoria interna: 32 GB, Tipo de memoria interna: DDR4-SDRAM. Capacidad total de almacenaje: 1000 GB, Unidad de almacenamiento: SSD. Modelo de adaptador gráfico incorporado: Intel UHD Graphics 750, Modelo de adaptador de gráficos discretos: NVIDIA GeForce RTX 3070. Sistema operativo instalado: Windows 10 Home, Arquitectura del sistema operativo: 64 bits. Tipo de chasis: Escritorio. Tipo de producto: PC. Peso: 6,7 kg. Color del producto: Negro",
+        "price": 1950,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:49:48.355Z",
+        "updatedAt": "2023-01-12T15:49:49.072Z",
+        "publishedAt": "2023-01-12T15:49:49.068Z",
+        "image": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "msi-meg-trident-x-11td-1635eu-ddr4-sdram-i7-11700k-escritorio-intel-core-i7-32-gb-1000-gb-ssd-windows-10-home-pc-negro.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_msi-meg-trident-x-11td-1635eu-ddr4-sdram-i7-11700k-escritorio-intel-core-i7-32-gb-1000-gb-ssd-windows-10-home-pc-negro.jpg",
+                  "hash": "thumbnail_msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.11,
+                  "url": "/uploads/thumbnail_msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca.jpg"
+                },
+                "medium": {
+                  "name": "medium_msi-meg-trident-x-11td-1635eu-ddr4-sdram-i7-11700k-escritorio-intel-core-i7-32-gb-1000-gb-ssd-windows-10-home-pc-negro.jpg",
+                  "hash": "medium_msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 22.92,
+                  "url": "/uploads/medium_msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca.jpg"
+                },
+                "small": {
+                  "name": "small_msi-meg-trident-x-11td-1635eu-ddr4-sdram-i7-11700k-escritorio-intel-core-i7-32-gb-1000-gb-ssd-windows-10-home-pc-negro.jpg",
+                  "hash": "small_msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 11.77,
+                  "url": "/uploads/small_msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca.jpg"
+                }
+              },
+              "hash": "msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 38.24,
+              "url": "/uploads/msi_meg_trident_x_11td_1635eu_ddr4_sdram_i7_11700k_escritorio_intel_core_i7_32_gb_1000_gb_ssd_windows_10_home_pc_negro_a5f56202ca.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.860Z",
+              "updatedAt": "2023-01-12T15:09:05.860Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "name": "HP Victus 15L Gaming TG02-0209ng i7-12700F",
+        "shortDescription": "Procesador: intel core i7-12700F\nMemoria RAM: 16GB\nUnidad de Almacenamiento: 1T SSD\nTarjeta Gráfica: RTX 3060 Ti\nSistema: Windows 11\n",
+        "longDescription": null,
+        "price": 1044,
+        "category": "Sobremesa",
+        "createdAt": "2023-01-12T15:50:10.086Z",
+        "updatedAt": "2023-01-12T15:50:10.966Z",
+        "publishedAt": "2023-01-12T15:50:10.963Z",
+        "image": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "victus-by-hp-15l-tg02-0054ns-i5-12400f-torre-intel-core-i5-16-gb-ddr4-sdram-512-gb-ssd-freedos-pc-plata.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_victus-by-hp-15l-tg02-0054ns-i5-12400f-torre-intel-core-i5-16-gb-ddr4-sdram-512-gb-ssd-freedos-pc-plata.jpg",
+                  "hash": "thumbnail_victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.33,
+                  "url": "/uploads/thumbnail_victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790.jpg"
+                },
+                "medium": {
+                  "name": "medium_victus-by-hp-15l-tg02-0054ns-i5-12400f-torre-intel-core-i5-16-gb-ddr4-sdram-512-gb-ssd-freedos-pc-plata.jpg",
+                  "hash": "medium_victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 26.55,
+                  "url": "/uploads/medium_victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790.jpg"
+                },
+                "small": {
+                  "name": "small_victus-by-hp-15l-tg02-0054ns-i5-12400f-torre-intel-core-i5-16-gb-ddr4-sdram-512-gb-ssd-freedos-pc-plata.jpg",
+                  "hash": "small_victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 12.51,
+                  "url": "/uploads/small_victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790.jpg"
+                }
+              },
+              "hash": "victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 46.85,
+              "url": "/uploads/victus_by_hp_15l_tg02_0054ns_i5_12400f_torre_intel_core_i5_16_gb_ddr4_sdram_512_gb_ssd_freedos_pc_plata_1ec9672790.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.971Z",
+              "updatedAt": "2023-01-12T15:39:37.936Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "name": "PCtopzera",
+        "shortDescription": "Mucho lueco",
+        "longDescription": null,
+        "price": 2000,
+        "category": "Portatil",
+        "createdAt": "2023-02-02T14:02:31.832Z",
+        "updatedAt": "2023-02-02T14:02:36.917Z",
+        "publishedAt": "2023-02-02T14:02:36.912Z",
+        "image": {
+          "data": {
+            "id": 9,
+            "attributes": {
+              "name": "hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 1000,
+              "height": 1000,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+                  "hash": "thumbnail_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 2.05,
+                  "url": "/uploads/thumbnail_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg"
+                },
+                "medium": {
+                  "name": "medium_hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+                  "hash": "medium_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 51.87,
+                  "url": "/uploads/medium_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg"
+                },
+                "small": {
+                  "name": "small_hp-pavilion-gaming-tg01-2085ur-amd-r3-5300g-16gb-512ssd-gtx-1650-freedos-reacondicionado.jpg",
+                  "hash": "small_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 23.79,
+                  "url": "/uploads/small_hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg"
+                }
+              },
+              "hash": "hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 102.3,
+              "url": "/uploads/hp_pavilion_gaming_tg01_2085ur_amd_r3_5300g_16gb_512ssd_gtx_1650_freedos_reacondicionado_60dcf4de8c.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-01-12T15:09:05.309Z",
+              "updatedAt": "2023-01-12T15:09:05.309Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 1,
+      "total": 19
+    }
+  }
+}
